@@ -1,7 +1,3 @@
-Here’s a cleaned-up and more professional version of your GitHub README profile. It removes repetition (e.g. duplicate tech stack badges), improves structure and grammar, and sharpens the tone:
-
----
-
 # 💫 About Me
 
 I'm a fourth-year Computer Science student at the University of Calgary with a strong interest in data science, machine learning, and low-level systems programming. I enjoy solving problems, analyzing data, and building software that makes a difference.
