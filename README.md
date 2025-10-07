@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm a fourth-year **Computer Science student** at the **University of Calgary** with interests in **data science, machine learning. I enjoy solving problems, analyzing data, and building software that makes a real impact.
+I'm a fifth-year **Computer Science student** at the **University of Calgary** with interests in **data science, machine learning. I enjoy solving problems, analyzing data, and building software that makes a real impact.
 
 ---
 
