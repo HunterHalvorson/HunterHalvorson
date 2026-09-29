@@ -4,7 +4,7 @@ Computer Science and Finance student at the University of Calgary (B.Sc. Compute
 
 ## Projects
 
-- **[SEC Filing Sentiment](https://github.com/HunterHalvorson/FinScope.git)** – Analyzes the tone of 10-K and 10-Q filings from SEC EDGAR and compares it to stock price movements. Python, LangChain, Hugging Face, ChromaDB, yfinance
+- **[SEC Filing Sentiment](https://github.com/HunterHalvorson/FinScope.git)** – Analyzes the tone of 10-K and 10-Q filings from SEC EDGAR. Python, LangChain, Hugging Face, ChromaDB, yfinance
 - **[Exercise Classifier](https://github.com/HunterHalvorson/exercise-classifier.git)** – Image classifier built by fine-tuning ResNet50 with transfer learning. PyTorch, Gradio. 
 
 ## Technical Skills
